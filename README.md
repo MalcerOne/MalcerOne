@@ -11,7 +11,7 @@
 
 ## About
 Undergraduated Computer Engineer student at <a href="https://www.insper.edu.br/en/"><b>Insper</b></a>. Aways willing to discover new technologies and learn new things. Aiming to expand my knowledges, as well as my hard and soft skills. I believe that AI and the exponencial grow of new technologies are going to change the world to a better place, and I want to be a part of it.<br /><br />
-Open to job or projects offers.
+Open to job or project offers.
 
 ### Technical Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <br />
