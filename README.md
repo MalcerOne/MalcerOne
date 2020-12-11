@@ -10,7 +10,7 @@
 <br />
 
 ## About
-Undergraduated Computer Engineer student at <a href="https://www.insper.edu.br/en/"><b>Insper</b></a>. Aways willing to discover new technologies and learn new things. Aiming to expand my knowlegdes, as well as my hard and soft skills. I believe that AI and the exponencial grow of new technologies are going to change the world to a better place, and I want to be a part of it.<br /><br />
+Undergraduated Computer Engineer student at <a href="https://www.insper.edu.br/en/"><b>Insper</b></a>. Aways willing to discover new technologies and learn new things. Aiming to expand my knowledges, as well as my hard and soft skills. I believe that AI and the exponencial grow of new technologies are going to change the world to a better place, and I want to be a part of it.<br /><br />
 Open to job or projects offers.
 
 ### Technical Skills
