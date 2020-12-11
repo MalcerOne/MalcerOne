@@ -10,4 +10,15 @@
 <br />
 
 ## About
-Undergraduated Computer Engineer student at <a href="https://www.insper.edu.br/en/"><b>Insper</b></a>. Aways willing to discover new technologies and learn new things. Aiming to expand my knowlegdes, as well as my hard and soft skills. I believe that practicing in an actual job, project. 
+Undergraduated Computer Engineer student at <a href="https://www.insper.edu.br/en/"><b>Insper</b></a>. Aways willing to discover new technologies and learn new things. Aiming to expand my knowlegdes, as well as my hard and soft skills. I believe that AI and the exponencial grow of new technologies are going to change the world to a better place, and I want to be a part of it.<br /><br />
+Open to job or projects offers.
+
+### Technical Skills
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <br />
+<img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <br />
+<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <br />
+<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+
+
