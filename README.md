@@ -31,5 +31,5 @@ Open to job or project offers.
 </a>
   
 ## Meaningless but cool trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?MalcerOne=ryo-ma&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=MalcerOne&theme=onedark)](https://github.com/MalcerOne/github-profile-trophy)
 
