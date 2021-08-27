@@ -14,12 +14,15 @@ Undergraduated Computer Engineer student at <a href="https://www.insper.edu.br/e
 Open to job or project offers.
 
 ## Technical Skills
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <br />
-<img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <br />
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <br />
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 ## Stats
 <p>
