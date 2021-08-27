@@ -5,7 +5,7 @@
 <a href="mailto:r.malcervelli@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 </p>
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1HhaTsjtubDcWznSi7cNt_ZhNiBHsssEB/view?usp=sharing)*
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1zYgm4RglIcqqOhaqjJOcP1E4XGdU-Dlp/view?usp=sharing)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/MalcerOne/MalcerOne/tree/master/Certificates)*
 <br />
 
