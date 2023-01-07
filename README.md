@@ -1,7 +1,7 @@
 # <h1 align="center"> Hey! I'm Rafael Malcervelli :smiley: </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafael-malcervelli-480420197/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/rafael-malcervelli/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="mailto:r.malcervelli@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 </p>
 
