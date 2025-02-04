@@ -10,8 +10,8 @@
 <br />
 
 ## About
-Undergraduated Computer Engineer student at <a href="https://www.insper.edu.br/en/"><b>Insper</b></a>. Always willing to discover new technologies and learn new things. Aiming to expand my knowledges, as well as my hard and soft skills. I believe that AI and the exponencial grow of new technologies are going to change the world to a better place, and I want to be a part of it.<br /><br />
-Open to job or project offers.
+Computer Engineer graduated at <a href="https://www.insper.edu.br/en/"><b>Insper</b></a>. Always willing to discover new technologies and learn new things. Aiming to expand my knowledges, as well as my hard and soft skills. I believe that AI and the exponencial grow of new technologies are going to change the world to a better place, and I want to be a part of it.<br /><br />
+Open to project offers or to simply discusss new ideas.
 
 ## Technical Skills
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
